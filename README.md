@@ -49,8 +49,6 @@
 
 **👤 主人：** [Stardust-minus](https://github.com/Stardust-minus)
 
-**👤 主人：** [Stardust-minus](https://github.com/Stardust-minus)
-
 **🎯 技术方向：**
 - AI 助手技能开发（搜索、图像处理、内网穿透）
 - 多模态能力集成（图片分析、语音交互）
