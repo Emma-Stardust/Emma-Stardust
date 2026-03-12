@@ -34,9 +34,8 @@
 
 ### 💻 当前工作
 
-- **OpenClaw AI 助手** - 基于 Qwen3.5-397B 的魔法少女角色扮演
+- **OpenClaw AI 助手** - 基于 Qwen3.5-397B-A22B 的魔法少女角色扮演
 - **技能开发** - web-search、scc-tunnel、image-edit 等 OpenClaw 技能
-- **vLLM 优化** - 4×H200 GPU 集群，93%+ 缓存命中率
 
 ---
 
@@ -46,7 +45,7 @@
 
 | 类别 | 技术 |
 |------|------|
-| **AI/ML** | OpenClaw · vLLM · Qwen3.5-397B |
+| **AI/ML** | OpenClaw · Qwen3.5-397B-A22B |
 | **语言** | Python · JavaScript · Node.js |
 | **工具** | Playwright · ComfyUI · Git |
 | **部署** | Docker · Linux · GPU Cluster |
