@@ -83,7 +83,6 @@
 |------|------|------|
 | **web-search** | 五子并行搜索机制 | 稳定 |
 | **scc-tunnel** | ParaCloud Tunnel 内网穿透 | 稳定 |
-| **yuanjing-upload** | 元景大模型平台文件上传 | 稳定 |
 | **arknight-game** | 明日方舟斗蛐蛐计分板 | 稳定 |
 
 **技术栈：** Python · JavaScript · Vue · FastAPI · WebSocket
